@@ -1,0 +1,69 @@
+# Bandit OverTheWire
+
+-   Level 0
+**![](https://lh3.googleusercontent.com/XFpWvJB0pqVRwBQGb4TWCV4sL5BTr4dUteASWSd_kTIP1ohv0zklmOb-8WQbB4z1tnWOKVqWXZ37dDXNZv_F6MQNAKg7zrovsGTnVU1E9HfOOTWc-7lP49oB3CR5-tH0y0MXmUJyC8UNYL0bFmdblFw98tEVTweQQfX90-HpXLl45rgKsC84ovqeYWMdAw)**
+
+
+- Level 0→1
+**![](https://lh5.googleusercontent.com/da3Hl5aBSbFNU0WuYmJj2QjMxAIvd_p0X1bSefWso_eCWAmPPlzN6soO2s_eSLQ-JYbPJk9mcfW3ZnYikVZdsbp2-umGGMIhnfZo87hky9a11KxO4duQnAV54PJuelGca8vRWdKGMmF4a81Vmloh8bEJ6HTIDsTABUb9ouLcAcn_RpVSeUF64WTa8EVFyw)**
+
+- Level 1→2
+**![](https://lh3.googleusercontent.com/a12EAuQ5nl9GFAjlYk5fo0RYah6T0oWLx3aY1WvoACA8PIIoEPmiMMMQxtQzdXHcihMEk0Un0npe9C9JRjbQNpO3AxDTDV99NaJwo4BO9a1tf9UH2Nw0Qprd6Iu8TdMYmS9uBMB9UzLL_ImP4d8ov10OiGMIdEpzx5P6ZMrxXUWneBMmhvF3VxMo8Wo9Ig)**
+
+- Level 2→3
+**![](https://lh4.googleusercontent.com/GKeiU7FzHDP6Oug8ZnZbt8xVihXnSM2y4KDQOiBbLDTelNx1lxoyYYRvLeDlA6SExdHY2PA2qosF7o2dmLh6tn8qts6qPGkV8BxcBe27sIt4gSONpJHdFXHQ3qrxtQ1J6l8yFsuWph8pH6YmJ2gjlsH8lXmI0qRoOCfRqkEtA8SIqila30-yx8kREGF6HA)**
+
+- Level 3→4
+**![](https://lh4.googleusercontent.com/XXuWtZwh1KVLRTAd2jUc4lmeiyQ2VQ7dQIvQSckGhLg9-CPJEV75qpPhbwoMMUShleboHn9FMc_upFSEt6aMXQio-jgrYxKdlIBy1OxdIelJTFrWiGO-N-72droGNf1guMirH7e1BQ3WvM-sFaDYYvK4u3jGU81DSXsI8NqKq3n17cCbmhLtno7gGVx94w)**
+
+- Level 4→5
+**![](https://lh3.googleusercontent.com/a2i6XmG-GYU-FJKWrlWzUpsh82LFCaHWd7wA1-FD-U1vGQnTiilz1G1AMSvqWkbP7UuWvyzFILq01kW0MhsR181p2PzLy6bJgbdJf6--ObHBMId_t0YRNR9ymevWLknoIivsqzBD_Zb15tEQtmiNWpnNZ4e46tQ5d5HlL50am6laIcDpo_IcCYBXeGc95A)**
+
+- Level 5→6
+**![](https://lh6.googleusercontent.com/9-IhSVu_RUPMHhWiLxn4l_cmV5wsnUe47yojp_9gmOtw6yOlZ-H8LAJVsvL0fCxPWdlosDKItD6ieqFVj1zWW58gScHF_Uvo7o2j-5IY87Nbkyoi7-m5d1G1U5mkD6_UeTZ1qRd_VLitTnNagu9BRYLh_648kIAMLTSzgCC6wgObG02TBtwlpcq7Vfo06w)**
+- Level 6→7
+**![](https://lh6.googleusercontent.com/AZb82_hCf1ZnJ79LRZxDi_hnPedhVz-Sl2sieDXSESVfis8-iQpu_QJn8XJY6T6E6cBdOh2sXztRglwF1E-wwtlGY2FYEHN1lcIlIpYi_5Vz_wGu3Bu_AG-e9X3X7jkB1vSWzafoLZVwwGsKii57bzYsDZnwCDxnSFJ5kIQP8Bp23BTxKDPxwXq8JdpSnQ)**
+
+- Level 6→7
+**![](https://lh3.googleusercontent.com/0DWN72EvfZRO22rOCwmvJKGPKpjOy5Yx7aeu-6r0uiNDLNbQe2EEitMj0FwMw2yRdWeKCLdBgQtgxKKijjkSfxAK8nUa54fTUkawDMqKBGQwMMxx20D6wWt3V3AgT5uAmIH3fFODDyjjKs4UKQBba-G3Ya2LLMc0roA1Py-GoOcmWQ9jIMAfzIHVdvAqkA)**
+**![](https://lh4.googleusercontent.com/4042-o3dyr82Ru5DRnQPES9imIhUKKDfz6qjipx6w3Oik8ZJprnxxJu-PFUktWasdQeUKrMdT3fUQ9ioCUnnW_i23R45B-OMzDjV27YugsmvR0mb1SH61a6WhOZ78yfQjUiRacJ3b_r8B_ppIyo3OlIdqDF0njyarQIF5NZ5KyTTQom3UEungprPhApL6g)**
+**![](https://lh4.googleusercontent.com/ueP8vjp5fht-XH16LbMVAPhU0u9x-KOmA3BvHUgNtVhQzsdrhVCYwdU6XfmPSJojrO9n5sNKP9cxVsxtGz56MxF-aVRGbrZlASTSkQCsCUVAObJTHKvm-EGIou9fMCmfQSSwF0V2DjiivmxjmBgCInJ8oXKBGL5rYP2duFcNDwv8k5PRRhowt5o7ru5PCw)**
+**![](https://lh3.googleusercontent.com/OV-M-mEjMUGetaBmfopsJsKbL5t28qsbxIpC51V7jafkjk1flLb84v-7u8_lJSIFWbqK2Rc9YIQ5nltlkqhZcMQspSV7Z8XWpoFrCjHd3yuBxoWrc9UX1bB48jgimwOIuB6a3sMZ_Z9OnmsCkcnqN0WLCRhPZNj1hkl4orDsKIvm2zQm3z0CjrizKEln3g)**
+**![](https://lh3.googleusercontent.com/SsEgRLKrZ65Yzm0cCmtKp9syQXevmMw6SloDRL3WeRHA79i7fVOK6C9Sp2ZEWO7c0Y3KfQcvVY0LuQrJrGL_C2c9JG9t2UXtOy2EGQo3hPHzM6lnn9Yv8zCXVPunPm0OECLivMi252e_KNm3GhRYPuWugBRT5nyoYoeYTs3aU5aMurrou_7tKdLssglNKg)**
+
+- Level 7→8
+**![](https://lh6.googleusercontent.com/oAWhczdd_FeLn4MSMYLX2-hKRXPAyY1s6msCfFiuvG2ilqVNDfky9T44Di4mgoxHfSfpkv6-0ImTkWGHmj2v607bzqN608PEoRD8sFe90-tauVrYF7DDvD96Bo3U9gEoMj4k2HrPTDVCeOwX4Vsbzp95BN1FkBhqUUZmgMJQmZoycyXAsTH5vfiTVYg5lQ)**
+
+- Level 8→9
+
+**![](https://lh5.googleusercontent.com/Q0YV2g1t9XumoE7OQrsJ-xNA4aZoo8CSzxcGHgJRqEq2_YvJzuzmrJoowh32rp2QAb1nvKNJAlka8Rjkd4IaGmZpkksUAlg6l4IWesO4WSGcoHEZNsXV_IJ2M6eNBK33KihxkBz_FD8Cd4iZI1AD8CmpYL-trOlmdIE_O2d1eAkp34X-cbSSbemjnPwSmQ)**
+
+- Level 9→10
+**![](https://lh5.googleusercontent.com/D8iUQeyU9JilzYaMrwD9opqRXSDayO6s_1LC0Xyd1dwse63xAXfFcZNzv-_dYHpIWbvwcNHWJ6eQzTux_Br9yQmyUhizrSjmQqAjJJP8iUebizftuFuk2pZQpGJdaTxdGdd8vY-0BlGYZJOSeI-lbLOcyzwwgOuWu8oWLkYsNmZk9KTNKmvAlHMmxWLzIQ)**
+
+
+- Level 10→11
+![](https://lh3.googleusercontent.com/X7k89WIoJPZE_GzNuRHnCC5xej1Cq9sfJfvdxjaQwFwthCa3GICk4W916s3A77EAA8_hdkyj-Y9amX05jDc5CF5O7eu67Pl_O15dkPymMm8eEgNsD3WO_Kk1RGtO5ple2Ny006hWRsOl92j-A4zz1Ae3XT8K2KcgQ4yCJteXrZcM9KcbeGaMywhYl14tdA)**
+
+
+- Level 11→12![](https://lh4.googleusercontent.com/akS8OQpdNtDDN7p2TQjOcrAcXD_FN5NFszv5QCKR6L6mZV9z8tXR81aTYOZHCvMPYt6bemkPeys6U_cXK_mbBrxmt0NgZr_X40MXGMZHQ1tYzX5oteoGaMXovF-tC0LOa9Pta4qYFmAMNH2pDAp3rPWo_fekgdCTvbrLtG8otj1HwCHtpF80lbkORJyeAQ)**
+-  Level 12→13
+
+**![](https://lh6.googleusercontent.com/n9_PmtQAFj9MuHvqkuXRAL219Y2l4JdUeXVJ3fPxEDvnbjyFQiHYpbPP4GVP67U6y8Z1DHlk9pBL0HcbEctD_jejFNZYXZJ4F-SBUFRkhXNwWp9tFtWKi14-KAabBeZmGhLn5V14dK4WlSic5_cRAFZkVjMr3B5YeCOgttchU1E-yT6v7NCUv6e1Rb5xVA)**
+**![](https://lh4.googleusercontent.com/MuDuab3Ed-s6x5zj_bzGYlQucvAuhfqpHaHOpjYszgmg-WDj0A2PODBudzu5Qp1mhy95rwN7RtLmuZan6XbTkYOB-OmNB7x3Jy_WS3tKI6MsmtLVtrKpM9qzYw--ejldHxvDLplvbOVKSgvtgjuc7Ta7hhq5BFb2acaOwDS0vXFeuwFTtjNOasmE5hHIyg)**
+- Level 13→14
+**![](https://lh3.googleusercontent.com/EFlusHzqpvmgzeLUnsjCrsPTHfclYRRTOhWnRzG413nzW9QqCIfVgz99kzl65jKuhlu88sQdLBgvswIoB9IKyNsQT70dWI2SG2X1dU5UfH-Hz0pWrQdD81WhnDXrMDt8brvH5ih_ylI9RMn4TgOIJYHTVOOmwp6JLUBi_Uu5KL0gnXQxT_jheQ2dKPgKCQ)**
+- Level 14→15
+
+**![](https://lh3.googleusercontent.com/I_sFAtWFJA1npoED2Bo1KTEiyR8DFNA2rsRZ_uBK8N4tBQqeWP78geUHYp7gE0qC6DJGXsjlfQ6VIJj5wozaDNO7G7sVrNoMS0tAp52fTI929Di9SjbjQtYc5flQiNWolOhOfSrPpxlSUCn7kl5WhcWzhbBJGEWvvpsiFaEXJbK4OsMiaiAXqmcn6vMcwA)**
+
+**![](https://lh4.googleusercontent.com/VsEcCdEzEnaOVdH1E11A-GsXrP_8uZ9DF1RVQ7mNnQaVRB0yxDtAl2YtoFJANtuiSTBya9H6viK1juFnMyQEIt98dyKwBlna4uqaBLsrphYjnZFK_ViC0RBHQAQ0noOzWVKCcB3fsKPcr-reiu7kN63yOff4i6Z3h8HNbZEVoQA02CPAWnhchWtKFUdXzg)**
+- Level 15→16
+**![](https://lh4.googleusercontent.com/AD8J-d-h1agIZoyb5RDtPZVLH17kUufCVd2JNjONHjvylfDmcH1WXdySYZbuusOVtgD8D5jL4LJmVK0502Bj6jzYvAa_6Uia8nHin5qBmLiPU97-SLgK79v8YJn-ecuHiipyTcKOff-bmGELkaKq643yj1JnG5cWereiEU3T_YB1LPLeN2fwhtOtG5gTRw)**
+- Level 17→18
+
+**![](https://lh3.googleusercontent.com/uEFTMi_t5Kd_AheA_m8N17ff56NkI7J1hOjhr5bKnRrFb1LAqyRnpqTpKAB_rx8uSnEuE81UeeF-jhJqf1J0NWRkQrt1hLbwOGO1hz5-UHVlJDtRLovKYSF4ZI1AMtBO9MIXO2fnrCw1lOJUaChPk-ga0hfBUjtAH-R087UFi0qsreBIVG3M0VnDjVzISw)**
+- Level 18→19
+**![](https://lh3.googleusercontent.com/ZrA0TMQY-LLQWcS-0m4bYWdsDJ-hvM2-0OCk7tkVAuRgbKbwADwDxuxy_n6h8YcNCnRMQiJDfYmSd1-CF4lG3kVW7iajkyn3MNd1uvY-SgjSLjV4rSs5kyD7qUkB2DVKsO2fDl1AX0PMCKVN5BphXlnAEOoyrzuJQlN--7Jccg_fAHvavqEu0RmlyS0kxQ)**
+- Level 19→20
+**![](https://lh4.googleusercontent.com/R7lZ7vQKMq-000jFWdXFVITtbjlT83K1UnZs4T6VLBt7_cXPQXdWNKoXaqW3Dtk-ftEGoQ0NtYxlRnGv3NiZp7ja09jhLsGr0XxPNYduIWtPSwE_cXUwKh1W66y8ohpnXfEHXs-PzQZGeiGS4jlUxcuusvBsaeRpbGuv4jO74XqPvp6sbSqAj3UvdDzp2g)**
